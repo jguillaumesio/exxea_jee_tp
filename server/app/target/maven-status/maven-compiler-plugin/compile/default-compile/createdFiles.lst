@@ -1,0 +1,9 @@
+com\example\demo\repository\Repository.class
+com\example\demo\model\Produit.class
+com\example\demo\controller\ProduitServlet.class
+com\example\demo\utils\DBConnection.class
+com\example\demo\model\Model.class
+com\example\demo\repository\ProduitRepository.class
+com\example\demo\repository\TestProduitRepository.class
+com\example\demo\utils\Misc.class
+com\example\demo\repository\AbstractRepository.class

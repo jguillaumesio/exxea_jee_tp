@@ -31,4 +31,4 @@ cd exxea_jee_tp
 ```
 docker compose up
 ```
-Now just go to http://127.0.0.1/demo_war/produit
+Now just go to http://127.0.0.1:8080/demo_war/produit
